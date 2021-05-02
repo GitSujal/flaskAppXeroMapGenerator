@@ -98,7 +98,7 @@ def xero_view():
     
     cache.set('default_select_group',my_groups[0])
 
-    postal_regions = [cont['Addresses'][0]["Region"] for cont in xero.contacts.all()]
+    postal_regions = [cont['Addresses'][0]["Region"].strip() for cont in xero.contacts.all()]
     postal_regions = list( dict.fromkeys(postal_regions))
     postal_regions.append("All") # Select all options
 
@@ -162,7 +162,7 @@ def xero_view_form():
             towritedict["AddressState"].append(x['MAIN Address']['Region'])
             towritedict["AddressPostcode"].append(x['MAIN Address']['PostalCode'])
             towritedict["AddressCountry"].append(x['MAIN Address']['Country'])
-            towritedict["Phone"].append(x['MAIN Phone']['PhoneAreaCode']+ "-" + x['MAIN Phone']['PhoneNumber'])
+            towritedict["Phone"].append(x['MAIN Phone']['PhoneAreaCode']+ " " + x['MAIN Phone']['PhoneNumber'])
 
 
     now = datetime.now()
