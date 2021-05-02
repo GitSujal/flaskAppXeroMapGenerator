@@ -1,0 +1,878 @@
+stream log level: 30
+file log level: 10
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+get key 'xero_creds' -> hit 
+stream log level: 30
+file log level: 10
+stream log level: 30
+file log level: 10
+Using default logger
+stream log level: 30
+stream log level: 30
+file log level: 10
+file log level: 10
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+get key 'xero_creds' -> hit 
+get key 'xero_creds' -> hit 
+stream log level: 30
+stream log level: 30
+file log level: 10
+file log level: 10
+stream log level: 30
+stream log level: 30
+file log level: 10
+file log level: 10
+Using default logger
+Using default logger
+stream log level: 30
+stream log level: 30
+stream log level: 30
+file log level: 10
+file log level: 10
+file log level: 10
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+stream log level: 30
+file log level: 10
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+get key 'xero_creds' -> hit 
+stream log level: 30
+file log level: 10
+stream log level: 30
+file log level: 10
+Using default logger
+stream log level: 30
+stream log level: 30
+file log level: 10
+file log level: 10
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+get key 'xero_creds' -> hit 
+get key 'xero_creds' -> hit 
+stream log level: 30
+stream log level: 30
+file log level: 10
+file log level: 10
+stream log level: 30
+stream log level: 30
+file log level: 10
+file log level: 10
+Using default logger
+Using default logger
+stream log level: 30
+stream log level: 30
+stream log level: 30
+file log level: 10
+file log level: 10
+file log level: 10
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+ * Detected change in '/Users/asmu/Desktop/FlaskAppGcloud/authenticator/main.py', reloading
+ * Detected change in '/Users/asmu/Desktop/FlaskAppGcloud/authenticator/main.py', reloading
+ * Detected change in '/Users/asmu/Desktop/FlaskAppGcloud/authenticator/main.py', reloading
+stream log level: 30
+file log level: 10
+cli config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+Using default logger
+merging file config 
+{'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'}}
+config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'},
+ 'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'},
+ '_sources': {'cli': {'BaseConfig': {'config_dir': './',
+                                     'config_path': 'xmg_config.json',
+                                     'contact_limit': 0,
+                                     'dump_path': 'contacts.csv'},
+                      'FilterConfig': {'contact_groups': 'Support Clients '
+                                                         '(monthly)'},
+                      'LogConfig': {'file_log_level': 'DEBUG',
+                                    'log_path': 'authenticator.log',
+                                    'stream_log_level': 'WARNING'}},
+              'file': {'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                                         'rsa_key_path': '~/.credentials/privatekey.pem'}},
+              'proto': {}},
+ 'argparse_loader': <rich_traitlets.RichKVArgParseConfigLoader object at 0x7fbec8c45350>}
+127.0.0.1 - - [25/Apr/2021 14:29:14] "[35m[1mGET /xero HTTP/1.1[0m" 500 -
+127.0.0.1 - - [25/Apr/2021 14:29:14] "[37mGET /xero?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:29:14] "[37mGET /xero?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:29:14] "[37mGET /xero?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:29:14] "[37mGET /xero?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:29:14] "[37mGET /xero?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:29:14] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Apr/2021 14:29:14] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+ * Detected change in '/Users/asmu/Desktop/FlaskAppGcloud/authenticator/main.py', reloading
+stream log level: 30
+file log level: 10
+cli config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+Using default logger
+merging file config 
+{'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'}}
+config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'},
+ 'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'},
+ '_sources': {'cli': {'BaseConfig': {'config_dir': './',
+                                     'config_path': 'xmg_config.json',
+                                     'contact_limit': 0,
+                                     'dump_path': 'contacts.csv'},
+                      'FilterConfig': {'contact_groups': 'Support Clients '
+                                                         '(monthly)'},
+                      'LogConfig': {'file_log_level': 'DEBUG',
+                                    'log_path': 'authenticator.log',
+                                    'stream_log_level': 'WARNING'}},
+              'file': {'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                                         'rsa_key_path': '~/.credentials/privatekey.pem'}},
+              'proto': {}},
+ 'argparse_loader': <rich_traitlets.RichKVArgParseConfigLoader object at 0x7fb6c0428350>}
+map contact groups: ['Support Clients (monthly)']
+contact limit: None
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups HTTP/1.1" 200 173
+all xero contact groups: []
+127.0.0.1 - - [25/Apr/2021 14:30:43] "[35m[1mGET /xero HTTP/1.1[0m" 500 -
+127.0.0.1 - - [25/Apr/2021 14:30:43] "[37mGET /xero?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:30:43] "[37mGET /xero?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:30:43] "[37mGET /xero?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:30:43] "[37mGET /xero?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:30:43] "[37mGET /xero?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+get key 'xero_creds' -> hit 
+stream log level: 30
+file log level: 10
+Using default logger
+stream log level: 30
+stream log level: 30
+file log level: 10
+file log level: 10
+cli config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+cli config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+Using default logger
+Using default logger
+merging file config 
+{'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'}}
+merging file config 
+{'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'}}
+config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'},
+ 'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'},
+ '_sources': {'cli': {'BaseConfig': {'config_dir': './',
+                                     'config_path': 'xmg_config.json',
+                                     'contact_limit': 0,
+                                     'dump_path': 'contacts.csv'},
+                      'FilterConfig': {'contact_groups': 'Support Clients '
+                                                         '(monthly)'},
+                      'LogConfig': {'file_log_level': 'DEBUG',
+                                    'log_path': 'authenticator.log',
+                                    'stream_log_level': 'WARNING'}},
+              'file': {'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                                         'rsa_key_path': '~/.credentials/privatekey.pem'}},
+              'proto': {}},
+ 'argparse_loader': <rich_traitlets.RichKVArgParseConfigLoader object at 0x7fb6c0699f50>}
+config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'},
+ 'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'},
+ '_sources': {'cli': {'BaseConfig': {'config_dir': './',
+                                     'config_path': 'xmg_config.json',
+                                     'contact_limit': 0,
+                                     'dump_path': 'contacts.csv'},
+                      'FilterConfig': {'contact_groups': 'Support Clients '
+                                                         '(monthly)'},
+                      'LogConfig': {'file_log_level': 'DEBUG',
+                                    'log_path': 'authenticator.log',
+                                    'stream_log_level': 'WARNING'}},
+              'file': {'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                                         'rsa_key_path': '~/.credentials/privatekey.pem'}},
+              'proto': {}},
+ 'argparse_loader': <rich_traitlets.RichKVArgParseConfigLoader object at 0x7fb6c0699f50>}
+map contact groups: ['Support Clients (monthly)']
+map contact groups: ['Support Clients (monthly)']
+contact limit: None
+contact limit: None
+Starting new HTTPS connection (1): api.xero.com:443
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups HTTP/1.1" 200 386
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups HTTP/1.1" 200 386
+all xero contact groups: [{'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+  'Contacts': [],
+  'HasValidationErrors': False,
+  'Name': 'Support Clients (monthly)',
+  'Status': 'ACTIVE'}]
+all xero contact groups: [{'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+  'Contacts': [],
+  'HasValidationErrors': False,
+  'Name': 'Support Clients (monthly)',
+  'Status': 'ACTIVE'}]
+Starting new HTTPS connection (1): api.xero.com:443
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups/5eda4c9e-9805-43cb-b78f-21ba0a968ba3 HTTP/1.1" 200 665
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups/5eda4c9e-9805-43cb-b78f-21ba0a968ba3 HTTP/1.1" 200 665
+group data: {'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+ 'Contacts': [{'Addresses': [],
+               'ContactGroups': [],
+               'ContactID': '09aa030f-b000-48e6-81f2-1bde999d7ac9',
+               'ContactPersons': [],
+               'HasValidationErrors': False,
+               'Name': 'Test',
+               'Phones': []}],
+ 'HasValidationErrors': False,
+ 'Name': 'Support Clients (monthly)',
+ 'Status': 'ACTIVE'}
+group data: {'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+ 'Contacts': [{'Addresses': [],
+               'ContactGroups': [],
+               'ContactID': '09aa030f-b000-48e6-81f2-1bde999d7ac9',
+               'ContactPersons': [],
+               'HasValidationErrors': False,
+               'Name': 'Test',
+               'Phones': []}],
+ 'HasValidationErrors': False,
+ 'Name': 'Support Clients (monthly)',
+ 'Status': 'ACTIVE'}
+Starting new HTTPS connection (1): api.xero.com:443
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/Contacts?where=ContactStatus%3D%3D%22ACTIVE%22%26%26%28ID%3D%3DGuid%28%2209aa030f-b000-48e6-81f2-1bde999d7ac9%22%29%29 HTTP/1.1" 200 1718
+https://api.xero.com:443 "GET /api.xro/2.0/Contacts?where=ContactStatus%3D%3D%22ACTIVE%22%26%26%28ID%3D%3DGuid%28%2209aa030f-b000-48e6-81f2-1bde999d7ac9%22%29%29 HTTP/1.1" 200 1718
+map contacts: 
+ContactID                             EmailAddress     Name    AddressLine    AddressArea    AddressPostcode    AddressState    AddressCountry    Phone
+------------------------------------  ---------------  ------  -------------  -------------  -----------------  --------------  ----------------  -------
+09aa030f-b000-48e6-81f2-1bde999d7ac9  asldk@asfkl.com  Test                                                                     Australia
+map contacts: 
+ContactID                             EmailAddress     Name    AddressLine    AddressArea    AddressPostcode    AddressState    AddressCountry    Phone
+------------------------------------  ---------------  ------  -------------  -------------  -----------------  --------------  ----------------  -------
+09aa030f-b000-48e6-81f2-1bde999d7ac9  asldk@asfkl.com  Test                                                                     Australia
+saved 1 contacts to /Users/asmu/Desktop/FlaskAppGcloud/authenticator/contacts.csv
+saved 1 contacts to /Users/asmu/Desktop/FlaskAppGcloud/authenticator/contacts.csv
+127.0.0.1 - - [25/Apr/2021 14:33:00] "[37mGET /xero HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:33:00] "[37mGET /xero HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/asmu/Desktop/FlaskAppGcloud/authenticator/main.py', reloading
+ * Detected change in '/Users/asmu/Desktop/FlaskAppGcloud/authenticator/main.py', reloading
+stream log level: 30
+file log level: 10
+cli config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+Using default logger
+merging file config 
+{'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'}}
+config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'},
+ 'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'},
+ '_sources': {'cli': {'BaseConfig': {'config_dir': './',
+                                     'config_path': 'xmg_config.json',
+                                     'contact_limit': 0,
+                                     'dump_path': 'contacts.csv'},
+                      'FilterConfig': {'contact_groups': 'Support Clients '
+                                                         '(monthly)'},
+                      'LogConfig': {'file_log_level': 'DEBUG',
+                                    'log_path': 'authenticator.log',
+                                    'stream_log_level': 'WARNING'}},
+              'file': {'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                                         'rsa_key_path': '~/.credentials/privatekey.pem'}},
+              'proto': {}},
+ 'argparse_loader': <rich_traitlets.RichKVArgParseConfigLoader object at 0x7f84ecd44a10>}
+map contact groups: ['Support Clients (monthly)']
+contact limit: None
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups HTTP/1.1" 200 386
+all xero contact groups: [{'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+  'Contacts': [],
+  'HasValidationErrors': False,
+  'Name': 'Support Clients (monthly)',
+  'Status': 'ACTIVE'}]
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups/5eda4c9e-9805-43cb-b78f-21ba0a968ba3 HTTP/1.1" 200 665
+group data: {'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+ 'Contacts': [{'Addresses': [],
+               'ContactGroups': [],
+               'ContactID': '09aa030f-b000-48e6-81f2-1bde999d7ac9',
+               'ContactPersons': [],
+               'HasValidationErrors': False,
+               'Name': 'Test',
+               'Phones': []}],
+ 'HasValidationErrors': False,
+ 'Name': 'Support Clients (monthly)',
+ 'Status': 'ACTIVE'}
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/Contacts?where=ContactStatus%3D%3D%22ACTIVE%22%26%26%28ID%3D%3DGuid%28%2209aa030f-b000-48e6-81f2-1bde999d7ac9%22%29%29 HTTP/1.1" 200 1718
+map contacts: 
+ContactID                             EmailAddress     Name    AddressLine    AddressArea    AddressPostcode    AddressState    AddressCountry    Phone
+------------------------------------  ---------------  ------  -------------  -------------  -----------------  --------------  ----------------  -------
+09aa030f-b000-48e6-81f2-1bde999d7ac9  asldk@asfkl.com  Test                                                                     Australia
+saved 1 contacts to /Users/asmu/Desktop/FlaskAppGcloud/authenticator/contacts.csv
+127.0.0.1 - - [25/Apr/2021 14:37:10] "[37mGET /xero HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/asmu/Desktop/FlaskAppGcloud/authenticator/main.py', reloading
+stream log level: 30
+file log level: 10
+cli config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+Using default logger
+merging file config 
+{'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'}}
+config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'},
+ 'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'},
+ '_sources': {'cli': {'BaseConfig': {'config_dir': './',
+                                     'config_path': 'xmg_config.json',
+                                     'contact_limit': 0,
+                                     'dump_path': 'contacts.csv'},
+                      'FilterConfig': {'contact_groups': 'Support Clients '
+                                                         '(monthly)'},
+                      'LogConfig': {'file_log_level': 'DEBUG',
+                                    'log_path': 'authenticator.log',
+                                    'stream_log_level': 'WARNING'}},
+              'file': {'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                                         'rsa_key_path': '~/.credentials/privatekey.pem'}},
+              'proto': {}},
+ 'argparse_loader': <rich_traitlets.RichKVArgParseConfigLoader object at 0x7fd34d344910>}
+map contact groups: ['Support Clients (monthly)']
+contact limit: None
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups HTTP/1.1" 200 386
+all xero contact groups: [{'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+  'Contacts': [],
+  'HasValidationErrors': False,
+  'Name': 'Support Clients (monthly)',
+  'Status': 'ACTIVE'}]
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups/5eda4c9e-9805-43cb-b78f-21ba0a968ba3 HTTP/1.1" 200 665
+group data: {'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+ 'Contacts': [{'Addresses': [],
+               'ContactGroups': [],
+               'ContactID': '09aa030f-b000-48e6-81f2-1bde999d7ac9',
+               'ContactPersons': [],
+               'HasValidationErrors': False,
+               'Name': 'Test',
+               'Phones': []}],
+ 'HasValidationErrors': False,
+ 'Name': 'Support Clients (monthly)',
+ 'Status': 'ACTIVE'}
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/Contacts?where=ContactStatus%3D%3D%22ACTIVE%22%26%26%28ID%3D%3DGuid%28%2209aa030f-b000-48e6-81f2-1bde999d7ac9%22%29%29 HTTP/1.1" 200 1718
+map contacts: 
+ContactID                             EmailAddress     Name    AddressLine    AddressArea    AddressPostcode    AddressState    AddressCountry    Phone
+------------------------------------  ---------------  ------  -------------  -------------  -----------------  --------------  ----------------  -------
+09aa030f-b000-48e6-81f2-1bde999d7ac9  asldk@asfkl.com  Test                                                                     Australia
+saved 1 contacts to /Users/asmu/Desktop/FlaskAppGcloud/authenticator/contacts.csv
+127.0.0.1 - - [25/Apr/2021 14:38:33] "[32mGET /xero HTTP/1.1[0m" 302 -
+127.0.0.1 - - [25/Apr/2021 14:38:33] "[33mGET /contacts.csv HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Apr/2021 14:38:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ * Detected change in '/Users/asmu/Desktop/FlaskAppGcloud/authenticator/main.py', reloading
+stream log level: 30
+file log level: 10
+cli config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+Using default logger
+merging file config 
+{'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'}}
+config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'},
+ 'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'},
+ '_sources': {'cli': {'BaseConfig': {'config_dir': './',
+                                     'config_path': 'xmg_config.json',
+                                     'contact_limit': 0,
+                                     'dump_path': 'contacts.csv'},
+                      'FilterConfig': {'contact_groups': 'Support Clients '
+                                                         '(monthly)'},
+                      'LogConfig': {'file_log_level': 'DEBUG',
+                                    'log_path': 'authenticator.log',
+                                    'stream_log_level': 'WARNING'}},
+              'file': {'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                                         'rsa_key_path': '~/.credentials/privatekey.pem'}},
+              'proto': {}},
+ 'argparse_loader': <rich_traitlets.RichKVArgParseConfigLoader object at 0x7f8101c23890>}
+map contact groups: ['Support Clients (monthly)']
+contact limit: None
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups HTTP/1.1" 200 386
+all xero contact groups: [{'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+  'Contacts': [],
+  'HasValidationErrors': False,
+  'Name': 'Support Clients (monthly)',
+  'Status': 'ACTIVE'}]
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups/5eda4c9e-9805-43cb-b78f-21ba0a968ba3 HTTP/1.1" 200 665
+group data: {'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+ 'Contacts': [{'Addresses': [],
+               'ContactGroups': [],
+               'ContactID': '09aa030f-b000-48e6-81f2-1bde999d7ac9',
+               'ContactPersons': [],
+               'HasValidationErrors': False,
+               'Name': 'Test',
+               'Phones': []}],
+ 'HasValidationErrors': False,
+ 'Name': 'Support Clients (monthly)',
+ 'Status': 'ACTIVE'}
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/Contacts?where=ContactStatus%3D%3D%22ACTIVE%22%26%26%28ID%3D%3DGuid%28%2209aa030f-b000-48e6-81f2-1bde999d7ac9%22%29%29 HTTP/1.1" 200 1718
+map contacts: 
+ContactID                             EmailAddress     Name    AddressLine    AddressArea    AddressPostcode    AddressState    AddressCountry    Phone
+------------------------------------  ---------------  ------  -------------  -------------  -----------------  --------------  ----------------  -------
+09aa030f-b000-48e6-81f2-1bde999d7ac9  asldk@asfkl.com  Test                                                                     Australia
+saved 1 contacts to /Users/asmu/Desktop/FlaskAppGcloud/authenticator/contacts.csv
+127.0.0.1 - - [25/Apr/2021 14:41:40] "[37mGET /xero HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/asmu/Desktop/FlaskAppGcloud/authenticator/main.py', reloading
+stream log level: 30
+file log level: 10
+cli config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+Using default logger
+merging file config 
+{'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'}}
+config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'},
+ 'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'},
+ '_sources': {'cli': {'BaseConfig': {'config_dir': './',
+                                     'config_path': 'xmg_config.json',
+                                     'contact_limit': 0,
+                                     'dump_path': 'contacts.csv'},
+                      'FilterConfig': {'contact_groups': 'Support Clients '
+                                                         '(monthly)'},
+                      'LogConfig': {'file_log_level': 'DEBUG',
+                                    'log_path': 'authenticator.log',
+                                    'stream_log_level': 'WARNING'}},
+              'file': {'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                                         'rsa_key_path': '~/.credentials/privatekey.pem'}},
+              'proto': {}},
+ 'argparse_loader': <rich_traitlets.RichKVArgParseConfigLoader object at 0x7f8929443750>}
+map contact groups: ['Support Clients (monthly)']
+contact limit: None
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups HTTP/1.1" 200 386
+all xero contact groups: [{'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+  'Contacts': [],
+  'HasValidationErrors': False,
+  'Name': 'Support Clients (monthly)',
+  'Status': 'ACTIVE'}]
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups/5eda4c9e-9805-43cb-b78f-21ba0a968ba3 HTTP/1.1" 200 665
+group data: {'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+ 'Contacts': [{'Addresses': [],
+               'ContactGroups': [],
+               'ContactID': '09aa030f-b000-48e6-81f2-1bde999d7ac9',
+               'ContactPersons': [],
+               'HasValidationErrors': False,
+               'Name': 'Test',
+               'Phones': []}],
+ 'HasValidationErrors': False,
+ 'Name': 'Support Clients (monthly)',
+ 'Status': 'ACTIVE'}
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/Contacts?where=ContactStatus%3D%3D%22ACTIVE%22%26%26%28ID%3D%3DGuid%28%2209aa030f-b000-48e6-81f2-1bde999d7ac9%22%29%29 HTTP/1.1" 200 1718
+map contacts: 
+ContactID                             EmailAddress     Name    AddressLine    AddressArea    AddressPostcode    AddressState    AddressCountry    Phone
+------------------------------------  ---------------  ------  -------------  -------------  -----------------  --------------  ----------------  -------
+09aa030f-b000-48e6-81f2-1bde999d7ac9  asldk@asfkl.com  Test                                                                     Australia
+saved 1 contacts to /Users/asmu/Desktop/FlaskAppGcloud/authenticator/contacts.csv
+127.0.0.1 - - [25/Apr/2021 14:43:42] "[35m[1mGET /xero HTTP/1.1[0m" 500 -
+127.0.0.1 - - [25/Apr/2021 14:43:42] "[37mGET /xero?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:43:42] "[37mGET /xero?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:43:42] "[37mGET /xero?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:43:42] "[37mGET /xero?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:43:42] "[37mGET /xero?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/asmu/Desktop/FlaskAppGcloud/authenticator/main.py', reloading
+stream log level: 30
+file log level: 10
+cli config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+Using default logger
+merging file config 
+{'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'}}
+config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'},
+ 'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                   'rsa_key_path': '~/.credentials/privatekey.pem'},
+ '_sources': {'cli': {'BaseConfig': {'config_dir': './',
+                                     'config_path': 'xmg_config.json',
+                                     'contact_limit': 0,
+                                     'dump_path': 'contacts.csv'},
+                      'FilterConfig': {'contact_groups': 'Support Clients '
+                                                         '(monthly)'},
+                      'LogConfig': {'file_log_level': 'DEBUG',
+                                    'log_path': 'authenticator.log',
+                                    'stream_log_level': 'WARNING'}},
+              'file': {'XeroApiConfig': {'consumer_key': 'XXXXXXXXXX',
+                                         'rsa_key_path': '~/.credentials/privatekey.pem'}},
+              'proto': {}},
+ 'argparse_loader': <rich_traitlets.RichKVArgParseConfigLoader object at 0x7fe9ddb45890>}
+map contact groups: ['Support Clients (monthly)']
+contact limit: None
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups HTTP/1.1" 200 386
+all xero contact groups: [{'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+  'Contacts': [],
+  'HasValidationErrors': False,
+  'Name': 'Support Clients (monthly)',
+  'Status': 'ACTIVE'}]
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups/5eda4c9e-9805-43cb-b78f-21ba0a968ba3 HTTP/1.1" 200 665
+group data: {'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+ 'Contacts': [{'Addresses': [],
+               'ContactGroups': [],
+               'ContactID': '09aa030f-b000-48e6-81f2-1bde999d7ac9',
+               'ContactPersons': [],
+               'HasValidationErrors': False,
+               'Name': 'Test',
+               'Phones': []}],
+ 'HasValidationErrors': False,
+ 'Name': 'Support Clients (monthly)',
+ 'Status': 'ACTIVE'}
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/Contacts?where=ContactStatus%3D%3D%22ACTIVE%22%26%26%28ID%3D%3DGuid%28%2209aa030f-b000-48e6-81f2-1bde999d7ac9%22%29%29 HTTP/1.1" 200 1718
+map contacts: 
+ContactID                             EmailAddress     Name    AddressLine    AddressArea    AddressPostcode    AddressState    AddressCountry    Phone
+------------------------------------  ---------------  ------  -------------  -------------  -----------------  --------------  ----------------  -------
+09aa030f-b000-48e6-81f2-1bde999d7ac9  asldk@asfkl.com  Test                                                                     Australia
+saved 1 contacts to /Users/asmu/Desktop/FlaskAppGcloud/authenticator/contacts.csv
+127.0.0.1 - - [25/Apr/2021 14:45:30] "[35m[1mGET /xero HTTP/1.1[0m" 500 -
+127.0.0.1 - - [25/Apr/2021 14:45:30] "[37mGET /xero?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:45:30] "[37mGET /xero?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:45:30] "[37mGET /xero?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:45:30] "[37mGET /xero?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Apr/2021 14:45:30] "[37mGET /xero?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/asmu/Desktop/FlaskAppGcloud/authenticator/main.py', reloading
+stream log level: 30
+file log level: 10
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+get key 'xero_creds' -> hit 
+stream log level: 30
+file log level: 10
+Using default logger
+stream log level: 30
+stream log level: 30
+file log level: 10
+file log level: 10
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+get key 'xero_creds' -> hit 
+get key 'xero_creds' -> hit 
+stream log level: 30
+stream log level: 30
+file log level: 10
+file log level: 10
+Using default logger
+Using default logger
+stream log level: 30
+stream log level: 30
+stream log level: 30
+file log level: 10
+file log level: 10
+file log level: 10
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+cli config is 
+{'BaseConfig': {'contact_limit': 0, 'dump_path': 'contacts.csv'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+To connect to the Xero API, you must either specify a Xero API consumer key or a config file containing such a key
+stream log level: 30
+file log level: 10
+cli config is 
+{'BaseConfig': {'config_dir': '/Users/asmu/.credentials',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+127.0.0.1 - - [28/Apr/2021 18:46:21] "[35m[1mGET /xero HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Apr/2021 18:46:21] "[37mGET /xero?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [28/Apr/2021 18:46:22] "[37mGET /xero?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [28/Apr/2021 18:46:22] "[37mGET /xero?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [28/Apr/2021 18:46:22] "[37mGET /xero?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [28/Apr/2021 18:46:22] "[37mGET /xero?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+stream log level: 30
+file log level: 10
+cli config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'}}
+config is 
+{'BaseConfig': {'config_dir': './',
+                'config_path': 'xmg_config.json',
+                'contact_limit': 0,
+                'dump_path': 'contacts.csv'},
+ 'FilterConfig': {'contact_groups': 'Support Clients (monthly)'},
+ 'LogConfig': {'file_log_level': 'DEBUG',
+               'log_path': 'authenticator.log',
+               'stream_log_level': 'WARNING'},
+ '_sources': {'cli': {'BaseConfig': {'config_dir': './',
+                                     'config_path': 'xmg_config.json',
+                                     'contact_limit': 0,
+                                     'dump_path': 'contacts.csv'},
+                      'FilterConfig': {'contact_groups': 'Support Clients '
+                                                         '(monthly)'},
+                      'LogConfig': {'file_log_level': 'DEBUG',
+                                    'log_path': 'authenticator.log',
+                                    'stream_log_level': 'WARNING'}},
+              'file': {},
+              'proto': {}},
+ 'argparse_loader': <rich_traitlets.RichKVArgParseConfigLoader object at 0x7fcc945447d0>}
+map contact groups: ['Support Clients (monthly)']
+contact limit: None
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups HTTP/1.1" 200 386
+all xero contact groups: [{'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+  'Contacts': [],
+  'HasValidationErrors': False,
+  'Name': 'Support Clients (monthly)',
+  'Status': 'ACTIVE'}]
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/ContactGroups/5eda4c9e-9805-43cb-b78f-21ba0a968ba3 HTTP/1.1" 200 665
+group data: {'ContactGroupID': '5eda4c9e-9805-43cb-b78f-21ba0a968ba3',
+ 'Contacts': [{'Addresses': [],
+               'ContactGroups': [],
+               'ContactID': '09aa030f-b000-48e6-81f2-1bde999d7ac9',
+               'ContactPersons': [],
+               'HasValidationErrors': False,
+               'Name': 'Test',
+               'Phones': []}],
+ 'HasValidationErrors': False,
+ 'Name': 'Support Clients (monthly)',
+ 'Status': 'ACTIVE'}
+Starting new HTTPS connection (1): api.xero.com:443
+https://api.xero.com:443 "GET /api.xro/2.0/Contacts?where=ContactStatus%3D%3D%22ACTIVE%22%26%26%28ID%3D%3DGuid%28%2209aa030f-b000-48e6-81f2-1bde999d7ac9%22%29%29 HTTP/1.1" 200 1718
+map contacts: 
+ContactID                             EmailAddress     Name    AddressLine    AddressArea    AddressPostcode    AddressState    AddressCountry    Phone
+------------------------------------  ---------------  ------  -------------  -------------  -----------------  --------------  ----------------  -------
+09aa030f-b000-48e6-81f2-1bde999d7ac9  asldk@asfkl.com  Test                                                                     Australia
+saved 1 contacts to /Users/asmu/Desktop/FlaskAppGcloud/authenticator/contacts.csv
+127.0.0.1 - - [28/Apr/2021 18:56:40] "[37mGET /xero HTTP/1.1[0m" 200 -
