@@ -2,3 +2,4 @@
 config.json
 app/config.json
 __pycache__
+dump/*.csv
