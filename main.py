@@ -168,7 +168,7 @@ def xero_view_form():
     now = datetime.now()
     
     filename = "export"+str(group)+"_"+now.strftime("%d_%b_%Y_%I_%M_%S_%p")+".csv"
-    directory=os.getcwd()+"/dump/"
+    directory="/dump/"
     full_path = directory+filename
     
     files = glob.glob('directory'+'*.csv')
