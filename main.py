@@ -41,7 +41,7 @@ app.config.from_mapping(cache_config)
 cache = Cache(app)
 
 configfile=None
-if len(sys.argv>1):
+if len(sys.argv)>1:
     configfile=sys.argv[1]
 
 client_id,client_secret,callback_uri=loadconfig(configfile=configfile)
