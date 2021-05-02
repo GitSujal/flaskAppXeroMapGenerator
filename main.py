@@ -143,7 +143,7 @@ def xero_view_form():
     if state!="All":
         for contact in map_contacts:
             x = contact.flatten_verbose()
-            if 'Region' in x['MAIN Address'].keys() and x['MAIN Address']['Region'].strip() != state:
+            if 'Region' in x['MAIN Address'].keys() and x['MAIN Address']['Region'].strip() == state:
                 pass
             else:
                 map_contacts.remove(contact)
