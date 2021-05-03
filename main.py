@@ -108,6 +108,14 @@ def xero_view():
 
     cache.set('success'," ")
 
+    directory=os.getcwd()+ "/dump/"
+    files = glob.glob(directory+'*.csv')
+    for f in files:
+        try:
+            os.remove(f)
+        except OSError as e:
+            print("Error: %s : %s" % (f, e.strerror))
+
     return render_template('xero.html',contact_group_list=my_contact_groups_name,postal_states_list=postal_regions,success_message=cache.get('success'))
 
 
@@ -174,7 +182,7 @@ def xero_view_form():
     directory=os.getcwd()+ "/dump/"
     full_path = directory+filename
     
-    files = glob.glob('directory'+'*.csv')
+    files = glob.glob(directory+'*.csv')
     for f in files:
         try:
             os.remove(f)
