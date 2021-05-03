@@ -97,8 +97,12 @@ def xero_view():
     my_contact_groups_name = list( dict.fromkeys(my_contact_groups_name))  # Remove duplicates
     
     cache.set('default_select_group',my_groups[0])
-
-    postal_regions = [cont['Addresses'][0]["Region"].strip() for cont in xero.contacts.all()]
+    allContacts = xero.contacts.all()
+    postal_regions = []
+    for contact in allContacts:
+        if "Region" in contact['Addresses'][0]:
+            postal_regions.append(contact['Addresses'][0]["Region"].strip())
+    
     postal_regions = list( dict.fromkeys(postal_regions))
     postal_regions.append("All") # Select all options
 
